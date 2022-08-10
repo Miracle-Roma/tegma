@@ -1,0 +1,83 @@
+.box{
+    display: flex;
+    width: 400px;
+    height: 700px;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    background-color: rgb(56, 34, 4);
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    border: 2px solid rgb(99, 82, 82);
+    border-radius: 10px;
+    
+    
+
+}
+.one{
+    background-color: green;
+    color: aliceblue;
+    position: absolute;
+    top: 10px;
+    right: -30px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    padding:8px;
+}
+img{
+    width: 380px;
+    height: 250px;
+    position: relative;
+    
+
+}
+.two{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+p{
+    width: 370px;
+    color: rgb(206, 88, 59);
+}
+.bla{
+    background-color: white;
+    color: blue;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 30px;
+    border-radius: 5px;
+    width: 150px;
+    justify-content: center;
+    bottom: 100px;
+
+    
+
+}
+.blu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -110px;
+}
+.bs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+
+}
+body{
+    background-color: rgb(30, 53, 53);
+    background-image: url(s.jpg);
+    background-position: center;
+    background-repeat: initial;
+    background-size: cover;
+    background-attachment: fixed;
+}
+

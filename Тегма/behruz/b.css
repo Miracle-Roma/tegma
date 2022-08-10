@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.bgg{
+    width: 90%;
+    height: 100vh;
+    margin: 0px auto;
+}
+.logo{
+    height: 100px;
+    width: 80%;
+    font-size: 25px;
+    margin:100px auto 0px auto;
+}
+.btn{
+    width: 80%;
+    height: 100px;
+    margin: 0px auto;
+    display:flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    color: black;
+}
+.bt{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    font-size: 20px;
+    color: black;
+    
+    padding: 10px 40px  ;
+}
+.bt a:nth-child(2){
+    background-color: rgba(72, 89, 243, 0.623);
+    color: aliceblue;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: black;
+    color: red;
+    box-shadow: 0px 0px 15px red;
+    border-radius: 10px;
+    transition: 0.75s;
+}
+.bt a:nth-child(2):hover{
+    background-color: black;
+    color: red;
+    box-shadow: 0px 0px 15px red;
+    border-radius: 10px;
+    transition: 0.75s;
+
+}
+.small{
+    width: 80%;
+    flex-wrap: wrap;
+    margin: 50px auto 0px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card{
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    flex-direction: ;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card:hover{
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 10px;
+    transition: 0.75s;
+}
+.img{
+    width: 100px ;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcsp6WA-ymb-8WqZQVd2PGaryG5cLUBO6Zg&usqp=CAU);
+    background-position: center;
+}
+.title{
+    margin-left: 30px;
+}
+
+button{
+    padding: 3px 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color:rgb(0, 162, 255) ;
+}

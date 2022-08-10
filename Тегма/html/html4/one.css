@@ -1,0 +1,286 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+.one {
+    margin: 0px auto;
+    color: antiquewhite;
+    background-image: url("one.jpg");
+    width: 1500px;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.bir {
+    width: 1200px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+    
+}
+
+.bir1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 400px;
+
+}
+
+.birhh {
+    font-size: 30px;
+}
+
+.birh {
+    font-size: 15px;
+    color: rgb(114, 109, 32);
+
+}
+
+.birq {
+    color: yellow;
+    font-size: 50px;
+    margin: 25px;
+}
+
+.bir2 {
+    font-size: 40px;
+    color: yellow;
+    margin: 15px;
+}
+
+.birh2 {
+    display: flex;
+
+    font-size: 10px;
+}
+
+.birh1 {
+    font-size: 75px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.bir3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+
+}
+
+.ikki{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 1000px;
+    margin: 0px auto;
+
+
+}
+
+.ul1 {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+    padding: 0px;
+
+
+}
+
+.ikki1 {
+    border-right: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 50px;
+    width: 100px;
+    background-color: rgb(59, 57, 57);
+
+}
+
+.ikki2 {
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 50px;
+    background-color: rgb(59, 57, 57);
+}
+.li{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+    width: 300px;
+}
+.ul2{
+    display: flex;
+    align-items: center;
+    
+}
+.li2{
+    background-color: rgb(59, 57, 57);
+    width: 150px;
+    height: 25px;
+    margin: 0px auto;
+    border-right: 5px solid white;
+    list-style: none;
+}   
+.li1{
+    background-color: rgb(218, 208, 68);
+    width: 150px;
+    height: 25px;
+    margin: 0px auto;
+    border-right: 5px solid white;
+    list-style: none;
+}
+.h1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 0px auto;
+    width: 1400px;
+}
+.roma{
+    width: 1600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+   
+    margin: 0px auto;
+
+}
+.rasm{
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    
+    color: white;
+}
+.rasm1{
+    width: 450px;
+}
+.yoz{
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+    height: 75px;
+    background-color: rgb(59, 57, 57);
+}
+.info{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin: 0px auto;
+    position: relative;
+    left: 125px;
+    height:60px;
+}
+
+.h3{
+    margin: 0px auto;
+    font-size: 15px;
+    color: orange;
+}
+.end{
+    margin: 0px auto;
+    width: 1500px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.past{
+    width: 500px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+
+}
+.past1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.rrq{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    gap: 15px;
+}
+.past3{
+    width: 150px;
+}
+.past4{
+    width: 400px;
+}
+.p{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    color: white;
+}
+.g{
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-size: 25px;
+}
+
+.g1{
+    background-color: black;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-size: 25px;
+}
+.pastt{
+    margin-top: 25px;
+}
+.read{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 60px;
+    color: white;
+}
+.gd{
+    width: 415px;
+}
+    

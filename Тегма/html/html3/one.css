@@ -1,0 +1,107 @@
+.div{
+    background-color: rgb(209, 204, 204);
+    height: 70vh;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: aliceblue;
+}
+.bir{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(88, 88, 88);
+    height: 50px;
+    width: 200px;
+   
+}
+.bir1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(88, 88, 88);
+    width: 1000px;
+}
+.men{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+img{
+    border-radius: 150px 10px;
+    width: 400px;
+    height: 350px;
+    border: 15px solid rgba(255, 165, 0, 0.6);
+  
+}
+.rasm{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+   
+    
+}
+.rasm1{
+    background-color: rgba(224, 189, 125, 0.6);
+    width: 250px;
+    height: 200px;
+    border-radius: 100px 10px;
+    position: relative;
+    top: 300px;
+    right: 150px;
+    
+    
+    
+}
+.meni{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-direction: column;
+    width: 500px;
+    align-items: flex-end;
+    top: 75px;
+   
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 70px;
+}
+i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+h1{
+    margin: 0px ;
+}
+.po{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; 
+    font-size: 50px;
+    position: relative;
+    color: rgb(189, 129, 19);
+}
+.h1{
+    font-size: 15px;
+    position: relative;
+    top: 25px;
+    left: 35px;
+    width: 200px;
+    
+
+    
+}

@@ -1,0 +1,248 @@
+*{
+    transition: 0.25s ease-in-out;
+    font-family: 'Lato', sans-serif;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(232, 232, 233);
+    cursor: auto;
+    
+    
+
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    background-color: aliceblue;
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.bir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100px;   
+
+}
+.m{
+    margin: 5px 0px 0px 0px;
+    font-family: 'Lobster', cursive;
+
+}
+.n{
+    margin: 0% auto;
+    font-family: 'Tiro Kannada', serif;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width: 900px;
+    gap: 25px;
+}
+#bir{
+    margin-left: 50px;
+}
+.uch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Tiro Kannada', serif;
+    width: 400px;
+    
+    
+
+}
+i{
+    font-size: 25px;
+    margin: 5px;
+    
+}
+.two{
+    
+    display: flex;
+    margin-top: 70px;
+     width: 100%;
+     justify-content: center;
+     cursor: pointer;
+     font-family: 'Tiro Kannada', serif;
+     
+     height: 650px;
+     
+    
+}
+.bir1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Tiro Kannada', serif;
+    gap: 50px;
+
+}
+img{
+    width: 100%;
+    
+}
+.two1{
+    display: flex;
+    margin-bottom: 100px;
+    width: 370px;
+    flex-direction: column;
+    border: 1px solid rgb(231, 201, 139) ;
+    background-color: aliceblue;
+    height: 700px;
+    
+   
+    
+    
+}
+.vl{
+    display: flex;
+    width: 1400px;
+    flex-direction: column;
+    margin-top: 100px;
+    justify-content: flex-start;
+    height: 150px;
+    
+
+}
+.as{
+    color: red;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.bg{
+    background-color: rgb(91, 95, 95);
+    color: aliceblue;
+    border-radius: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    width: 150px;
+    margin-left: 10px;
+    background-size: cover;
+}
+.bg:hover{
+    background-color: red;
+
+}
+.img{
+    width: 100%;
+    height: 400px;
+    background-image: url("one.jpg");
+    background-size: cover;
+}
+
+.img:hover{
+    background-image: url("one1.jpg");
+}
+.img1{
+    width: 100%;
+    height: 400px;
+    background-image: url("two.jpg");
+    background-size: cover;
+}
+
+.img1:hover{
+    background-image: url("two1.jpg");
+}
+.img2{
+    width: 100%;
+    height: 400px;
+    background-image: url("bir.jpg");
+    background-size: cover;
+}
+
+.img2:hover{
+    background-image: url("bir1.jpg");
+}
+.img3{
+    width: 100%;
+    height: 400px;
+    background-image: url("ikki.jpg");
+    background-size: cover;
+}
+
+.img3:hover{
+    background-image: url("ikki1.jpg");
+}
+.img4{
+    width: 100%;
+    height: 400px;
+    background-image: url("uch.jpg");
+    background-size: cover;
+}
+
+.img4:hover{
+    background-image: url("uch1.jpg");
+}
+.img5{
+    width: 100%;
+    height: 400px;
+    background-image: url("tort.jpg");
+    background-size: cover;
+}
+
+.img5:hover{
+    background-image: url("tort1.jpg");
+}
+.img6{
+    width: 100%;
+    height: 400px;
+    background-image: url("besh.jpg");
+    background-size: cover;
+}
+
+.img6:hover{
+    background-image: url("besh1.jpg");
+}
+.img7{
+    width: 100%;
+    height: 400px;
+    background-image: url("olti.jpg");
+    background-size: cover;
+}
+
+.img7:hover{
+    background-image: url("olti1.jpg");
+}
+.past{
+    background-color: rgb(165, 165, 163);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Tiro Bangla', serif;
+    
+    
+}
+.past1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:800px;
+    
+}
+.rasm1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    height: 600px;
+}
+.ewq{
+    margin: 0px;
+}

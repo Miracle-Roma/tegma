@@ -1,0 +1,140 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-direction: column;
+    overflow: hidden;
+}
+.one{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.one1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa-location-dot{
+    padding-right: 10px;
+}
+.fa-envelope{
+    padding-right: 10px;
+}
+li{
+    list-style: none;
+    padding-right: 10px;
+}
+.li1{
+    border-left: 1px solid black;
+    padding-left: 15px;
+}
+.one2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+.ul1{
+    border-right: 1px solid black ;
+    padding-right: 10px ;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 100% ;
+    background-image: url(one.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.two1{
+    display: flex;
+    width: 90%;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.two11{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+.h3{
+    font-size: 15px;
+}
+.h1{
+    margin: 0;
+}
+.bos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    padding:20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+}
+.sob{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding:20px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.th{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aliceblue;
+    z-index: 2;
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+}
+.th1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.th1 h3{
+    color: red;
+}
+.th1 h1{
+    margin: 0;
+}
+.th2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    
+}
+.t{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 25%;
+    padding-left:25px;
+}
+.t h3{
+    margin:10px 0px  ;
+}

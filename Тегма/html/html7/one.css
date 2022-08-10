@@ -1,0 +1,158 @@
+body{
+    background-color: rgb(165, 164, 163);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    width: 1000px;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+    width: 100%;
+}
+.one1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    text-align: center;
+}
+.two1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+}
+
+.two1 h1{
+    margin: 70px 0px 10px;
+}
+.two2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 50px;
+    width: 100%;
+    
+}
+.two3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:15px;
+    background-color: #ff0d38;
+    width: 150px;
+    height:40px;
+    color: white;
+    
+}
+.two4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:15px;
+    border: 1px solid #ff0d38;
+    width: 150px;
+    height:40px;
+    color: #ff0d38;
+    
+}
+.th{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height:450px;
+    width: 100%;
+    position: relative;
+}  
+.th1{
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    position: relative;
+    bottom: 25px;
+}
+.th1 h1{
+    margin: 0px;
+}
+.th11{
+    color: #ff0d38;
+}
+.th2{
+    width: 45%;
+    height: 300px;
+    background-image: url(one1.jpg);
+    background-repeat: initial;
+    background-size: cover;
+    
+}
+.for{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width:100%;
+    height: 350px;
+    background-color: #272727;
+    color: white;
+    gap: 50px;
+    
+}
+.for2 ul{
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.for2{
+    margin-right: 300px;
+
+}
+.for1{
+    display: flex;
+    width: 300px;
+     
+    justify-content: center;
+    flex-direction: column;
+}
+input{
+    height: 30px;
+    width: 250px;
+    background: #454545;
+    border: 1px solid #595959;
+    border-radius: 11px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: italic;
+}
+.for3{
+    color: #ff0d38;
+}

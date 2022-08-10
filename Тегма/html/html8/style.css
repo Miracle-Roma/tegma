@@ -1,0 +1,119 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    flex-direction: column;
+    background-color: #E1E1E1;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:350px;
+}
+.li5{
+    
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 500px;
+    width: 1000px;
+    gap: 90px;
+}
+.content1{
+    width: 300px;
+    
+}
+.content2{
+    height: 100%;
+    width: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(one.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #E1E1E1;
+}
+.niz{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 50px;
+
+}
+.niz1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    ;
+}
+img{
+    width: 100%;
+}
+.con{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(233, 58, 58);
+    color:#fff;
+}
+.cons{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(24, 192, 9);
+    color:#fff;
+}
+.conv{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(224, 210, 7);
+    color:#fff;
+}
+.png1{
+    background-color: rgb(233, 58, 58);
+}
+.png2{
+    background-color: rgb(24, 192, 9);
+}
+.png3{
+    background-color: rgb(224, 210, 7);
+}
+
